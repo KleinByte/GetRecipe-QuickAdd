@@ -14,5 +14,8 @@
     "@rollup/plugin-node-resolve": "^15.2.3",
     "cheerio": "^1.0.0-rc.12",
     "rollup": "^4.9.2"
+  },
+  "dependencies": {
+    "release-it": "^17.0.1"
   }
 }
