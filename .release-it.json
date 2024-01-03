@@ -11,7 +11,7 @@
       "release": true,
       "host": "github.com",
       "assets": [
-        "dist/*.js"
+        "dist/script_getRecipe_quickadd.js"
       ]
     },
     "npm": {
