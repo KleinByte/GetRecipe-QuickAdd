@@ -4,7 +4,9 @@
   "description": "",
   "main": "script_getRecipe_quickadd.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "watch": "rollup -c --watch",
+    "build": "rollup -c",
+    "release": "dotenv release-it --"
   },
   "keywords": [],
   "author": "",
