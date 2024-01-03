@@ -1,0 +1,18 @@
+{
+  "name": "get-recipe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script_getRecipe_quickadd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^25.0.7",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "cheerio": "^1.0.0-rc.12",
+    "rollup": "^4.9.2"
+  }
+}
