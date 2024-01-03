@@ -1,4 +1,9 @@
 {
+    "plugins": {
+        "@release-it/bumper": {
+          "out": "dist/script_getRecipe_quickadd.js"
+        }
+      },
     "hooks": {
         "before:init": "npx rollup -c"
       },
