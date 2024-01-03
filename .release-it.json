@@ -1,5 +1,8 @@
 {
-    "github": {
+    "hooks": {
+        "before:init": "npx rollup -c"
+      },
+      "github": {
       "release": true,
       "host": "github.com",
       "assets": [
