@@ -6,7 +6,7 @@
   "scripts": {
     "watch": "rollup -c --watch",
     "build": "rollup -c",
-    "release": "dotenv -e .env --release-it"
+    "release": "dotenv -e .env -- npx release-it"
   },
   "keywords": [],
   "author": "",
