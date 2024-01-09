@@ -9,7 +9,7 @@ recipeRating: /10
 
 ![RecipeImage]({{VALUE:recipeImage}})
 
-> **Description:**  
+> **Description:**
 > {{VALUE:recipeDescription}}
 
 ## Details
@@ -24,14 +24,14 @@ recipeRating: /10
 - **Cuisine:** {{VALUE:recipeCuisine}}
 
 ## Nutrition
-{{VALUE:nutrition}}
+{{VALUE:recipeNutrition}}
 
 
 ## Ingredients
-{{VALUE:ingredients}}
+{{VALUE:recipeIngredients}}
 
 ## Instructions
-{{VALUE:instructions}}
+{{VALUE:recipeInstructions}}
 
 ---
 
