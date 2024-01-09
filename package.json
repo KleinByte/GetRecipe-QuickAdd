@@ -1,6 +1,6 @@
 {
   "name": "get-recipe",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "script_getRecipe_quickadd.js",
   "scripts": {
